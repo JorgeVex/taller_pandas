@@ -14,7 +14,7 @@ Análisis exploratorio con Pandas sobre un dataset de 50,000 estudiantes que eva
 
 ## Contenido del repositorio
 
-- `taller_pandas_ia_estudiantes.ipynb`: notebook con la carga, limpieza, análisis y conclusiones.
+- `entregable.ipynb`: notebook con la carga, limpieza, análisis y conclusiones.
 - `ai_student_impact_dataset__1_.csv`: dataset utilizado.
 
 ## Herramientas
