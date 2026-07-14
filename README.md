@@ -21,7 +21,6 @@ Análisis exploratorio con Pandas sobre un dataset de 50,000 estudiantes que eva
 
 - Python
 - Pandas
-- Matplotlib
 
 ## Cómo ejecutar
 
